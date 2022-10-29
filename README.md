@@ -29,13 +29,16 @@
 <br>
 
 ### MVP
-
+- User Login/Logout/Signup
+- Add, Delete, Update shopping cart
+- Use Stripe to complete checkout
 
 <br>
 
 #### Goals 
 
-
+- Cohesive Design throughout application
+- Enable seamless shopping cart usage with Stripe 
 
 
 <br>
