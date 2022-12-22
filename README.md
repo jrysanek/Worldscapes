@@ -37,45 +37,45 @@
 
 <details>
 <summary>Desktop- LogIn</summary>
-<img src="" >
+<img src="https://user-images.githubusercontent.com/61858219/208343873-90fa294f-c0ac-4312-9e14-afe838c84672.png" >
 </details>
 
 
 <details>
-<summary>Desktop- Login-Landing</summary>
-<img src=>
+<summary>Desktop- Cart</summary>
+<img src="https://user-images.githubusercontent.com/61858219/208344309-a5ae46a0-2f9a-4b0e-b022-046087a7b201.png">
 </details>
 
 <details>
 <summary>Desktop- User-Logged-In</summary>
-<img src="" >
+<img src="https://user-images.githubusercontent.com/61858219/208344138-1663df02-42af-4023-a32f-305d36a60e2a.png" >
 </details>
 
 
 <details>
 <summary>Tablet- Home</summary>
-<img src="" >
+<img src="https://user-images.githubusercontent.com/61858219/209052944-9cf363ba-38a9-4183-a6fa-9315f0f67361.png" >
 </details>
 
 
 <details>
-<summary>Tablet- Sign-Up</summary>
-<img src="" >
+<summary>Tablet- CreateUser</summary>
+<img src="https://user-images.githubusercontent.com/61858219/209053017-d325e389-ee9a-4708-81ea-531048f009f9.png" >
 </details>
 
 <details>
 <summary>Tablet- Login</summary>
-<img src="" >
+<img src="https://user-images.githubusercontent.com/61858219/209053091-75e5ae3f-18da-47dc-b068-7891ba5765d4.png" >
 </details>
 
 <details>
 <summary>Tablet-Login-Landing</summary>
-<img src="" >
+<img src="https://user-images.githubusercontent.com/61858219/209053263-cd8f053f-5ab8-43f8-92ad-57783ae5b92a.png" >
 </details>
 
 <details>
 <summary>Tablet- User-Logged-In</summary>
-<img src="" >
+<img src="https://user-images.githubusercontent.com/61858219/209053155-162eb705-4cb0-4375-ad72-383c8f722f3b.png" >
 </details>
 
 
