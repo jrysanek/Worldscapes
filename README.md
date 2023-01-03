@@ -5,11 +5,9 @@
 - [MVP](#MVP)
   - [Goals](#goals)
     - [Libraries](#libraries)
-    - [Data](#data)
     - [Component Hierarchy](#component-hierarchy)
     - [Component Breakdown](#component-breakdown)
     - [Component Estimates](#component-estimates)
-    - [Helper Functions](#helper-functions)
   - [Post-MVP](#post-mvp)
 - [Project Delivery](#project-delivery)
   - [Code Showcase](#code-showcase)
@@ -102,6 +100,8 @@
 <br>
 
 ### MVP
+- Have Gallery of images
+- Cohesive styling throughout application 
 - User Login/Logout/CreateUser
 - Add, Delete, Update shopping cart
 - Use Stripe to complete checkout
@@ -112,6 +112,7 @@
 
 - Cohesive Design throughout application
 - Enable seamless shopping cart usage with Stripe 
+
 
 
 <br>
@@ -127,37 +128,65 @@
 
 <br>
 
-#### Data
-
-
-
-<br>
-
 #### Component Hierarchy
+```
+src
+|__ assets/
+      |__ tests
+      |__ fonts
+      |__ images
+      |__ wireframes
+|__ components/
+      |__ header.jsx
+      |__ nav.jsx
+      |__ searchBar.jsx
+      |__ images.jsx
+      |__ imageLinks.jsx
+      |__ Footer.jsx
+```
 
 <br>
 
 #### Component Breakdown
 
-
+|  Component   |    Type    | state | props | Description                                                      |
+| :----------: | :--------: | :---: | :---: | :--------------------------------------------------------------- |
+|    Header    | function |  Y |    Y | _Will have page title._               |
+|  Home  |  Button |  Y  |  Y | _Will provide links to separate components/pages_       |
+|   Images   |  function    |Y   | Y     | _This will be the results provided by the api._      |
+|ImageLinks  | Route/Link |   Y  | Y    | _Link function for individual photographs_                 |
+|    Footer    |  |     |     | _Copyright info._ |
 <br>
 
 #### Component Estimates
 
-
-<br>
-
-#### Helper Functions
+| Task                | Priority | Estimated Time | Time Invested | Actual Time |
+| ------------------- | :------: | :------------: | :-----------: | :---------: |
+| Create Backend framework    |    H    |     8 hrs      |      hrs     |     hrs    |
+| Create Frontend framework |    H     |     8 hrs      |      hrs     |     hrs    |
+| Add Auth to backend  |    H     |     6 hrs      |      6hrs     |    6hrs     |
+| Connect backend and front end |    H     |     4 hrs      |    6 hrs     |     6hrs    |
+| Enable Stripe on frontend|    H     |     8 hrs      |      8hrs     |    8hrs   |
+| Test backend functionality |    H     |     3 hrs      |      3hrs     |     3hrs   |
+| Test front end functionality |    H     |    5  hrs      |      hrs     |     TBD     |
+| Add Styling |    H     |     12 hrs      |      hrs     |    hrs    |
+| Finish Styling|    H     |     10 hrs      |      hrs     |     TBD     |
+| Testing |    H     |     6 hrs      |       hrs     |     TBD     |
+| Deploy |    H     |     6 hrs      |       hrs     |     TBD     |
+| TOTAL               |          |     hrs      |     hrs     |     TBD     |
 
 <br>
 
 #### SWOT- Analysis
+I will be using a combination of Youtube, google research and Docs to overcome any issues that 
+arise. 
 
 <br>
 
 ### Post-MVP
 
-
+- Wishlist with CRUD capabilities 
+  
 <br>
 
 ## Project Delivery
